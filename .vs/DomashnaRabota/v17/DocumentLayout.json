@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivail\\source\\repos\\DomashnaRabota\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1889EBF9-DC61-43DE-B718-EF731D4316D0}|DomashnaRabota\\DomashnaRabota.csproj|c:\\users\\ivail\\source\\repos\\domashnarabota\\domashnarabota\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1889EBF9-DC61-43DE-B718-EF731D4316D0}|DomashnaRabota\\DomashnaRabota.csproj|solutionrelative:domashnarabota\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1889EBF9-DC61-43DE-B718-EF731D4316D0}|DomashnaRabota\\DomashnaRabota.csproj|c:\\users\\ivail\\source\\repos\\domashnarabota\\domashnarabota\\counterthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1889EBF9-DC61-43DE-B718-EF731D4316D0}|DomashnaRabota\\DomashnaRabota.csproj|solutionrelative:domashnarabota\\counterthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1889EBF9-DC61-43DE-B718-EF731D4316D0}|DomashnaRabota\\DomashnaRabota.csproj|c:\\users\\ivail\\source\\repos\\domashnarabota\\domashnarabota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1889EBF9-DC61-43DE-B718-EF731D4316D0}|DomashnaRabota\\DomashnaRabota.csproj|solutionrelative:domashnarabota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ivail\\source\\repos\\DomashnaRabota\\DomashnaRabota\\Player.cs",
+              "RelativeDocumentMoniker": "DomashnaRabota\\Player.cs",
+              "ToolTip": "C:\\Users\\ivail\\source\\repos\\DomashnaRabota\\DomashnaRabota\\Player.cs",
+              "RelativeToolTip": "DomashnaRabota\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:56:42.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CounterThread.cs",
+              "DocumentMoniker": "C:\\Users\\ivail\\source\\repos\\DomashnaRabota\\DomashnaRabota\\CounterThread.cs",
+              "RelativeDocumentMoniker": "DomashnaRabota\\CounterThread.cs",
+              "ToolTip": "C:\\Users\\ivail\\source\\repos\\DomashnaRabota\\DomashnaRabota\\CounterThread.cs",
+              "RelativeToolTip": "DomashnaRabota\\CounterThread.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:56:21.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivail\\source\\repos\\DomashnaRabota\\DomashnaRabota\\Program.cs",
+              "RelativeDocumentMoniker": "DomashnaRabota\\Program.cs",
+              "ToolTip": "C:\\Users\\ivail\\source\\repos\\DomashnaRabota\\DomashnaRabota\\Program.cs",
+              "RelativeToolTip": "DomashnaRabota\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:55:37.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
